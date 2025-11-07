@@ -14,9 +14,8 @@ It captures video frames, processes them through edge detection and masking, and
 
 🗂 Folder Structure
 lane-detection-system/
-├── images/
-│   ├── input.png     
-│   └── output.png    
+├── input.png     
+├── output.png    
 ├── lane_detection.py
 └── README.md
 
